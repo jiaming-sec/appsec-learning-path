@@ -22,3 +22,10 @@ Welcome to my Application Security (AppSec) learning repository! This repo docum
 ## 🧪 Labs
 
 Check the `labs/` directory for exercises on common web vulnerabilities and writeups.
+
+## 📎 Resources
+
+- [OWASP.org](https://owasp.org)
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- [WebGoat](https://owasp.org/www-project-webgoat/)
+- [TryHackMe AppSec Path](https://tryhackme.com)
