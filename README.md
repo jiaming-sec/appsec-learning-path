@@ -18,3 +18,7 @@ Welcome to my Application Security (AppSec) learning repository! This repo docum
 - [ ] Code Review for Security
 - [ ] Bug Bounty & Vulnerability Disclosure
 - [ ] DevSecOps Integration
+
+## 🧪 Labs
+
+Check the `labs/` directory for exercises on common web vulnerabilities and writeups.
