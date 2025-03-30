@@ -9,3 +9,12 @@ Welcome to my Application Security (AppSec) learning repository! This repo docum
 - Practice with hands-on labs
 - Develop secure coding habits
 - Document everything for knowledge sharing 💡
+
+## 📍 Learning Tracks
+
+- [ ] OWASP Top 10 (2021)
+- [ ] Secure Coding Practices
+- [ ] Threat Modeling
+- [ ] Code Review for Security
+- [ ] Bug Bounty & Vulnerability Disclosure
+- [ ] DevSecOps Integration
