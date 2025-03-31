@@ -1,9 +1,5 @@
 ## 📌 1. OWASP Top 10 (2021)
 
-The OWASP Top 10 is a list of the most critical security risks in web applications. Learn what they are, how they work, and how to prevent them.
-
-## 📌 1. OWASP Top 10 (2021) - Explained
-
 The OWASP Top 10 is a list of the most common and critical security risks in web applications. Each entry represents a category of vulnerability and includes details on risk, impact, and remediation.
 
 ### A01: Broken Access Control
