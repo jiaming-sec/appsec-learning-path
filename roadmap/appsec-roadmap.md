@@ -54,6 +54,12 @@ The OWASP Top 10 is a list of the most common and critical security risks in web
 
 ---
 
+### Key Practices:
+- **Input Validation**: Always validate user input.
+  - Use whitelisting, not blacklisting.
+  - Example: Restrict allowed file types in file uploads.
+
+
 ## 🧑‍💻 2. Secure Coding Practices - In Depth
 
 Secure coding reduces the attack surface at the development stage.
