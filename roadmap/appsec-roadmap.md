@@ -41,3 +41,8 @@ The OWASP Top 10 is a list of the most common and critical security risks in web
 - **What**: Unverified code or updates, lack of integrity checks.
 - **Example**: Auto-update features downloading unsigned files.
 - **Mitigation**: Sign code, enforce integrity via checksums and secure pipelines.
+
+### A09: Security Logging and Monitoring Failures
+- **What**: Missing or ineffective logging.
+- **Example**: No alert for failed login attempts or data exfiltration.
+- **Mitigation**: Centralized logging, alerting, incident response planning.
