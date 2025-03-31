@@ -53,3 +53,8 @@ The OWASP Top 10 is a list of the most common and critical security risks in web
 - **Mitigation**: Validate and restrict URLs, use firewall rules.
 
 ---
+
+## 🧑‍💻 2. Secure Coding Practices - In Depth
+
+Secure coding reduces the attack surface at the development stage.
+
