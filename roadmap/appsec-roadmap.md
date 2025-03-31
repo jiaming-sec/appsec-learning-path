@@ -36,3 +36,8 @@ The OWASP Top 10 is a list of the most common and critical security risks in web
 - **What**: Weak login systems.
 - **Example**: No multi-factor authentication (MFA), predictable credentials.
 - **Mitigation**: Use MFA, limit login attempts, secure password storage.
+
+### A08: Software and Data Integrity Failures
+- **What**: Unverified code or updates, lack of integrity checks.
+- **Example**: Auto-update features downloading unsigned files.
+- **Mitigation**: Sign code, enforce integrity via checksums and secure pipelines.
