@@ -21,3 +21,8 @@ The OWASP Top 10 is a list of the most common and critical security risks in web
 - **What**: Flaws in system architecture and logic.
 - **Example**: No limits on failed login attempts.
 - **Mitigation**: Apply security principles during the design phase (e.g., least privilege).
+
+### A05: Security Misconfiguration
+- **What**: Default settings, exposed files, open ports, verbose errors.
+- **Example**: Admin panels left open, stack traces shown to users.
+- **Mitigation**: Harden environments, remove unused services, use secure headers.
