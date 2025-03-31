@@ -11,3 +11,7 @@ The OWASP Top 10 is a list of the most common and critical security risks in web
 - **What**: Weak or missing encryption of sensitive data.
 - **Example**: Transmitting passwords over HTTP, storing data without encryption.
 - 
+### A03: Injection
+- **What**: Malicious input alters the logic of an application.
+- **Example**: SQL Injection (`' OR '1'='1` bypasses login).
+- **Mitigation**: Use parameterized queries and input validation.
