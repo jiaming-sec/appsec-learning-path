@@ -32,3 +32,7 @@ The OWASP Top 10 is a list of the most common and critical security risks in web
 - **Example**: Running jQuery v1.7, which has XSS vulnerabilities.
 - **Mitigation**: Keep dependencies updated and monitor advisories.
 
+### A07: Identification and Authentication Failures
+- **What**: Weak login systems.
+- **Example**: No multi-factor authentication (MFA), predictable credentials.
+- **Mitigation**: Use MFA, limit login attempts, secure password storage.
