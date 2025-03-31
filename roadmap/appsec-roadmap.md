@@ -26,3 +26,9 @@ The OWASP Top 10 is a list of the most common and critical security risks in web
 - **What**: Default settings, exposed files, open ports, verbose errors.
 - **Example**: Admin panels left open, stack traces shown to users.
 - **Mitigation**: Harden environments, remove unused services, use secure headers.
+
+### A06: Vulnerable and Outdated Components
+- **What**: Using libraries or platforms with known vulnerabilities.
+- **Example**: Running jQuery v1.7, which has XSS vulnerabilities.
+- **Mitigation**: Keep dependencies updated and monitor advisories.
+
