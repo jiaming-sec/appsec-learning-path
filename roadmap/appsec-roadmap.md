@@ -46,3 +46,10 @@ The OWASP Top 10 is a list of the most common and critical security risks in web
 - **What**: Missing or ineffective logging.
 - **Example**: No alert for failed login attempts or data exfiltration.
 - **Mitigation**: Centralized logging, alerting, incident response planning.
+
+### A10: Server-Side Request Forgery (SSRF)
+- **What**: Attacker forces server to access internal resources.
+- **Example**: Submitting URLs that access internal APIs (e.g., `http://localhost:8000`).
+- **Mitigation**: Validate and restrict URLs, use firewall rules.
+
+---
