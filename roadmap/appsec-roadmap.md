@@ -16,3 +16,8 @@ The OWASP Top 10 is a list of the most common and critical security risks in web
 - **What**: Malicious input alters the logic of an application.
 - **Example**: SQL Injection (`' OR '1'='1` bypasses login).
 - **Mitigation**: Use parameterized queries and input validation.
+  
+### A04: Insecure Design
+- **What**: Flaws in system architecture and logic.
+- **Example**: No limits on failed login attempts.
+- **Mitigation**: Apply security principles during the design phase (e.g., least privilege).
