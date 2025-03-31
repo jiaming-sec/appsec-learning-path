@@ -64,3 +64,7 @@ The OWASP Top 10 is a list of the most common and critical security risks in web
 
 Secure coding reduces the attack surface at the development stage.
 
+- **Output Encoding**: Encode data before rendering in the browser.
+  - Prevents XSS attacks.
+  - Use libraries like OWASP Java Encoder or `htmlspecialchars()` in PHP.
+
