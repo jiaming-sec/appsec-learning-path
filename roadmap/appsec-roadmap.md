@@ -71,3 +71,6 @@ Secure coding reduces the attack surface at the development stage.
   - Never roll your own auth. Use standard libraries (e.g., OAuth, OpenID Connect).
   - Ensure separation of authentication and authorization checks.
 
+- **Secure Session Management**:
+  - Use secure cookies, implement session expiration.
+  - Regenerate session IDs after login.
