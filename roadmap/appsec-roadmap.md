@@ -78,3 +78,9 @@ Secure coding reduces the attack surface at the development stage.
 - **Error Handling**:
   - Don’t expose internal errors to users.
   - Log securely and return generic error messages.
+
+- **Secrets Management**:
+  - Don’t hardcode credentials.
+  - Use secret management systems like AWS Secrets Manager or HashiCorp Vault.
+
+---
