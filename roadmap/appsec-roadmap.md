@@ -84,3 +84,8 @@ Secure coding reduces the attack surface at the development stage.
   - Use secret management systems like AWS Secrets Manager or HashiCorp Vault.
 
 ---
+
+## 🧠 3. Threat Modeling - What, Why, and How
+
+### What is Threat Modeling?
+Threat modeling is the process of identifying potential security threats in an application and designing controls to prevent them.
