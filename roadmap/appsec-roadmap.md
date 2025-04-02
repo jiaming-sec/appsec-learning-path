@@ -67,3 +67,7 @@ Secure coding reduces the attack surface at the development stage.
   - Prevents XSS attacks.
   - Use libraries like OWASP Java Encoder or `htmlspecialchars()` in PHP.
 
+- **Authentication and Authorization**:
+  - Never roll your own auth. Use standard libraries (e.g., OAuth, OpenID Connect).
+  - Ensure separation of authentication and authorization checks.
+
