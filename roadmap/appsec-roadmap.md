@@ -74,3 +74,7 @@ Secure coding reduces the attack surface at the development stage.
 - **Secure Session Management**:
   - Use secure cookies, implement session expiration.
   - Regenerate session IDs after login.
+
+- **Error Handling**:
+  - Don’t expose internal errors to users.
+  - Log securely and return generic error messages.
