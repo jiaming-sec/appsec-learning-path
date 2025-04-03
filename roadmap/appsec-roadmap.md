@@ -101,3 +101,7 @@ Threat modeling is the process of identifying potential security threats in an a
 3. **Prioritize**: Rate threats based on likelihood and impact.
 4. **Mitigate**: Plan and implement defenses.
 
+### Common Frameworks:
+- **STRIDE** (Spoofing, Tampering, Repudiation, Info Disclosure, DoS, Privilege Escalation)
+- **PASTA** (Process for Attack Simulation and Threat Analysis)
+- **LINDDUN** (Privacy-focused)
