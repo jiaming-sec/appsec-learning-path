@@ -89,3 +89,8 @@ Secure coding reduces the attack surface at the development stage.
 
 ### What is Threat Modeling?
 Threat modeling is the process of identifying potential security threats in an application and designing controls to prevent them.
+
+### Why is it Important?
+- Identifies vulnerabilities **before** they’re coded.
+- Reduces cost of fixes by catching issues early.
+- Improves architecture design and team awareness.
