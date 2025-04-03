@@ -115,3 +115,10 @@ Threat modeling is the process of identifying potential security threats in an a
 ## 🔍 4. Code Review for Security - Explained
 
 Code review helps catch security issues during development
+
+### What to Look For:
+- Input not validated/sanitized
+- Hardcoded secrets or API keys
+- Direct object references without access checks
+- Unsafe use of eval, exec, or reflection
+- Insecure third-party libraries
