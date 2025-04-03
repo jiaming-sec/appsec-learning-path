@@ -109,3 +109,9 @@ Threat modeling is the process of identifying potential security threats in an a
 ### Tools:
 - OWASP Threat Dragon
 - Microsoft Threat Modeling Tool
+
+---
+
+## 🔍 4. Code Review for Security - Explained
+
+Code review helps catch security issues during development
