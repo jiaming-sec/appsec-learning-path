@@ -105,3 +105,7 @@ Threat modeling is the process of identifying potential security threats in an a
 - **STRIDE** (Spoofing, Tampering, Repudiation, Info Disclosure, DoS, Privilege Escalation)
 - **PASTA** (Process for Attack Simulation and Threat Analysis)
 - **LINDDUN** (Privacy-focused)
+
+### Tools:
+- OWASP Threat Dragon
+- Microsoft Threat Modeling Tool
