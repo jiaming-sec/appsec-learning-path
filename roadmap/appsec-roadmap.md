@@ -94,3 +94,10 @@ Threat modeling is the process of identifying potential security threats in an a
 - Identifies vulnerabilities **before** they’re coded.
 - Reduces cost of fixes by catching issues early.
 - Improves architecture design and team awareness.
+
+### How to Do It:
+1. **Define the system**: Diagram data flows, assets, actors.
+2. **Identify threats**: Use STRIDE to brainstorm threats.
+3. **Prioritize**: Rate threats based on likelihood and impact.
+4. **Mitigate**: Plan and implement defenses.
+
