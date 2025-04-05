@@ -127,3 +127,10 @@ Code review helps catch security issues during development
 - Use a checklist (OWASP Secure Code Review Guide)
 - Review small chunks regularly
 - Automate with static analysis (e.g., Semgrep, SonarQube)
+
+### Tools:
+- GitHub Code Scanning with CodeQL
+- Semgrep
+- SonarCloud / SonarQube
+
+---
