@@ -122,3 +122,8 @@ Code review helps catch security issues during development
 - Direct object references without access checks
 - Unsafe use of eval, exec, or reflection
 - Insecure third-party libraries
+
+### Best Practices:
+- Use a checklist (OWASP Secure Code Review Guide)
+- Review small chunks regularly
+- Automate with static analysis (e.g., Semgrep, SonarQube)
