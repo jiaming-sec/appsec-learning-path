@@ -145,3 +145,8 @@ A bug bounty program rewards researchers for finding and reporting vulnerabiliti
 
 ### What is it?
 A bug bounty program rewards researchers for finding and reporting vulnerabilities responsibly.
+
+### Why Learn It?
+- Real-world exposure to app vulnerabilities
+- Learn offensive tactics (which improves defense)
+- Build a professional reputation
