@@ -134,3 +134,8 @@ Code review helps catch security issues during development
 - SonarCloud / SonarQube
 
 ---
+
+## 🕵️ 5. Bug Bounty & Vulnerability Disclosure
+
+### What is it?
+A bug bounty program rewards researchers for finding and reporting vulnerabilities responsibly.
