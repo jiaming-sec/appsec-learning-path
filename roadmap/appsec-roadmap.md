@@ -150,3 +150,8 @@ A bug bounty program rewards researchers for finding and reporting vulnerabiliti
 - Real-world exposure to app vulnerabilities
 - Learn offensive tactics (which improves defense)
 - Build a professional reputation
+
+### Skills to Learn:
+- Recon: Find assets and subdomains (with tools like Amass, Subfinder)
+- Fuzzing: Discover hidden inputs or API functions
+- Business Logic Testing: Look for flaws in workflows (e.g., bypassing payments)
