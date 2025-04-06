@@ -155,3 +155,10 @@ A bug bounty program rewards researchers for finding and reporting vulnerabiliti
 - Recon: Find assets and subdomains (with tools like Amass, Subfinder)
 - Fuzzing: Discover hidden inputs or API functions
 - Business Logic Testing: Look for flaws in workflows (e.g., bypassing payments)
+
+### Platforms:
+- HackerOne
+- Bugcrowd
+- TryHackMe Bug Bounty Path
+
+---
