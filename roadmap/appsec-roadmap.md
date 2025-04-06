@@ -162,3 +162,12 @@ A bug bounty program rewards researchers for finding and reporting vulnerabiliti
 - TryHackMe Bug Bounty Path
 
 ---
+
+## ⚙️ 6. DevSecOps Integration - Explained
+
+DevSecOps integrates security into the DevOps pipeline.
+
+### Goals:
+- Shift security left
+- Automate testing and vulnerability scans
+- Ensure continuous compliance
