@@ -189,3 +189,11 @@ DevSecOps integrates security into the DevOps pipeline.
 2. GitHub Action triggers SAST + secret scan  
 3. Fails build if vulnerabilities are found  
 4. Developers fix before merge
+
+## ✅ Suggested Learning Order
+1. OWASP Top 10  
+2. Secure Coding Practices  
+3. Threat Modeling  
+4. Code Review  
+5. Bug Bounty Practice  
+6. DevSecOps & Automation
