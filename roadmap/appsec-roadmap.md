@@ -183,3 +183,9 @@ DevSecOps integrates security into the DevOps pipeline.
 - OWASP Dependency-Check
 - GitLeaks
 - CodeQL
+
+### Example Workflow:
+1. Code pushed to GitHub  
+2. GitHub Action triggers SAST + secret scan  
+3. Fails build if vulnerabilities are found  
+4. Developers fix before merge
