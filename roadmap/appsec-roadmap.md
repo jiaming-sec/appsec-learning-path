@@ -171,3 +171,9 @@ DevSecOps integrates security into the DevOps pipeline.
 - Shift security left
 - Automate testing and vulnerability scans
 - Ensure continuous compliance
+
+### Key Practices:
+- **SAST** (Static Application Security Testing): Scan source code (e.g., Semgrep)
+- **DAST** (Dynamic App Testing): Test running apps (e.g., OWASP ZAP)
+- **Dependency Scanning**: Identify vulnerable libraries (e.g., Trivy, Snyk)
+- **Secret Scanning**: Detect secrets in code (e.g., Gitleaks)
