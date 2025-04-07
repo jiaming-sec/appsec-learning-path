@@ -177,3 +177,9 @@ DevSecOps integrates security into the DevOps pipeline.
 - **DAST** (Dynamic App Testing): Test running apps (e.g., OWASP ZAP)
 - **Dependency Scanning**: Identify vulnerable libraries (e.g., Trivy, Snyk)
 - **Secret Scanning**: Detect secrets in code (e.g., Gitleaks)
+
+### Tools:
+- GitHub Actions for CI/CD
+- OWASP Dependency-Check
+- GitLeaks
+- CodeQL
