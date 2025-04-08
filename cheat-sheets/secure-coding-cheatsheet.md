@@ -9,3 +9,8 @@
 - Store passwords with bcrypt or Argon2
 - Implement account lockout
 - Use MFA wherever possible
+
+## 🧾 Session Management
+- Use `HttpOnly` and `Secure` flags on cookies
+- Rotate session IDs after login
+- Invalidate sessions on logout
