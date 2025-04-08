@@ -12,3 +12,5 @@
 | A08: Software and Data Integrity Failures | CI/CD pipeline tampering, unsigned code | GitLeaks, SLSA | Sign code, verify integrity |
 | A09: Security Logging and Monitoring Failures | Lack of incident detection | ELK Stack, Splunk | Centralized logging, alerts |
 | A10: SSRF | Server-side request to internal systems | ZAP, Burp | Whitelisting, deny internal IPs |
+
+✅ **Tip:** Pair this with OWASP Juice Shop challenges or Web Security Academy labs.
