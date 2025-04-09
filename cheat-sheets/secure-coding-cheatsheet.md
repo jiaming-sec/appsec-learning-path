@@ -14,3 +14,7 @@
 - Use `HttpOnly` and `Secure` flags on cookies
 - Rotate session IDs after login
 - Invalidate sessions on logout
+
+## 📦 Dependency Management
+- Use tools like Snyk or OWASP Dependency-Check
+- Avoid outdated/abandoned packages
