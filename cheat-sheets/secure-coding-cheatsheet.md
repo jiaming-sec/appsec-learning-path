@@ -18,3 +18,7 @@
 ## 📦 Dependency Management
 - Use tools like Snyk or OWASP Dependency-Check
 - Avoid outdated/abandoned packages
+
+## 🛡️ Error Handling
+- Don’t expose stack traces or detailed errors to users
+- Log errors internally
