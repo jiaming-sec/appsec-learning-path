@@ -30,3 +30,6 @@ Quick notes and go-to answers for common application security interview question
 
 > ❓ *What is your approach to secure design?*  
 ✅ Threat modeling, secure defaults, use libraries with secure patterns.
+
+> ❓ *What’s the difference between SAST and SCA?*  
+✅ SAST scans source code; SCA scans for vulnerable dependencies.
