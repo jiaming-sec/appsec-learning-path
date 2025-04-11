@@ -33,3 +33,6 @@ Quick notes and go-to answers for common application security interview question
 
 > ❓ *What’s the difference between SAST and SCA?*  
 ✅ SAST scans source code; SCA scans for vulnerable dependencies.
+
+> ❓ *What are the risks of broken access control?*  
+✅ Unauthorized actions like viewing/editing other users' data. Mitigate using server-side RBAC.
