@@ -27,3 +27,6 @@ Quick notes and go-to answers for common application security interview question
 
 > ❓ *How do you prevent SQL injection?*  
 ✅ Use parameterized queries, ORM libraries, and sanitize inputs.
+
+> ❓ *What is your approach to secure design?*  
+✅ Threat modeling, secure defaults, use libraries with secure patterns.
