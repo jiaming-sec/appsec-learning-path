@@ -36,3 +36,6 @@ Quick notes and go-to answers for common application security interview question
 
 > ❓ *What are the risks of broken access control?*  
 ✅ Unauthorized actions like viewing/editing other users' data. Mitigate using server-side RBAC.
+
+> ❓ *How do you stay current in security?*  
+✅ OWASP, HackerOne reports, Bugcrowd disclosures, Reddit r/netsec, blogs (e.g., Bishop Fox, PortSwigger).
