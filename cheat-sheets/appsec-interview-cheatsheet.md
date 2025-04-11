@@ -22,3 +22,8 @@ Quick notes and go-to answers for common application security interview question
 - **Postman** — API testing and fuzzing
 
 ---
+
+## 🧠 Sample Questions & Quick Tips
+
+> ❓ *How do you prevent SQL injection?*  
+✅ Use parameterized queries, ORM libraries, and sanitize inputs.
