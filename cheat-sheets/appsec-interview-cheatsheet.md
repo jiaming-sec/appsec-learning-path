@@ -13,3 +13,12 @@ Quick notes and go-to answers for common application security interview question
 - **DevSecOps** — Security integration into CI/CD (e.g., GitHub Actions + ZAP)
 
 ---
+
+## 🛠️ Tools to Know
+
+- **Burp Suite / ZAP** — manual and automated web app testing
+- **OWASP Dependency-Check** — detect vulnerable packages
+- **Checkmarx / SonarQube / CodeQL** — SAST tools
+- **Postman** — API testing and fuzzing
+
+---
