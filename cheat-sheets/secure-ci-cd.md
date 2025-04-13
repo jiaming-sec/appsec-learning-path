@@ -23,3 +23,10 @@ Shift security left by embedding checks into your CI/CD pipelines.
 ### 4. 🌐 DAST
 - OWASP ZAP in GitHub Actions
 - Burp Suite Enterprise (for org-level scanning)
+
+### 5. 🔐 Container Security
+- Trivy
+- Docker Bench
+- Clair, Grype
+
+---
