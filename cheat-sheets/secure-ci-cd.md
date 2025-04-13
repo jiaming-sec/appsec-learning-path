@@ -14,3 +14,8 @@ Shift security left by embedding checks into your CI/CD pipelines.
 - GitHub CodeQL
 - SonarQube
 - Checkmarx
+
+### 3. 🧪 Dependency Scanning (SCA)
+- OWASP Dependency-Check
+- Snyk
+- `npm audit`, `pip-audit`
