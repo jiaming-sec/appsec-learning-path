@@ -19,3 +19,7 @@ Shift security left by embedding checks into your CI/CD pipelines.
 - OWASP Dependency-Check
 - Snyk
 - `npm audit`, `pip-audit`
+
+### 4. 🌐 DAST
+- OWASP ZAP in GitHub Actions
+- Burp Suite Enterprise (for org-level scanning)
