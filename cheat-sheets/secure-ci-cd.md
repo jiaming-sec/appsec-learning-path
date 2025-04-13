@@ -30,3 +30,10 @@ Shift security left by embedding checks into your CI/CD pipelines.
 - Clair, Grype
 
 ---
+
+## 🛡 Security Best Practices
+
+- Least privilege for CI runners
+- Isolate secrets using vaults (e.g., GitHub Secrets)
+- Run tests in clean environments (no developer tokens)
+- Use signed commits and releases (Sigstore/Cosign)
