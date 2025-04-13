@@ -37,3 +37,13 @@ Shift security left by embedding checks into your CI/CD pipelines.
 - Isolate secrets using vaults (e.g., GitHub Secrets)
 - Run tests in clean environments (no developer tokens)
 - Use signed commits and releases (Sigstore/Cosign)
+
+---
+
+## 📄 Sample GitHub Action (OWASP ZAP)
+
+```yaml
+- name: ZAP Baseline Scan
+  uses: zaproxy/action-baseline@v0.9.0
+  with:
+    target: 'http://example.com'
