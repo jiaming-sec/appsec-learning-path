@@ -9,3 +9,8 @@ Shift security left by embedding checks into your CI/CD pipelines.
 ### 1. 📝 Pre-Commit
 - Secret scanning (`truffleHog`, `gitleaks`)
 - Linting and secure code formatters
+
+### 2. 🔍 Static Analysis (SAST)
+- GitHub CodeQL
+- SonarQube
+- Checkmarx
