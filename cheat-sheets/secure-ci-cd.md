@@ -2,3 +2,6 @@
 
 Shift security left by embedding checks into your CI/CD pipelines.
 
+---
+
+## 🏗 Tools & Techniques by Stage
