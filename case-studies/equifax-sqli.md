@@ -18,3 +18,10 @@
 ## ⚠️ Security Lapse
 - Failed to patch a known CVE for months
 - No WAF or runtime protection
+
+---
+
+## ✅ Lessons Learned
+- Set up automated patch pipelines
+- Prioritize patching based on CVSS
+- Monitor logs for RCE indicators
