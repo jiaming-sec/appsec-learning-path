@@ -12,3 +12,9 @@
 ## 🔍 Root Cause
 - Apache Struts vulnerability (CVE-2017-5638)
 - Remote code execution via crafted `Content-Type` header
+
+---
+
+## ⚠️ Security Lapse
+- Failed to patch a known CVE for months
+- No WAF or runtime protection
