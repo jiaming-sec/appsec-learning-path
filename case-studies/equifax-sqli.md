@@ -25,3 +25,8 @@
 - Set up automated patch pipelines
 - Prioritize patching based on CVSS
 - Monitor logs for RCE indicators
+
+## 🔧 Tools You Could Use to Prevent It
+- OWASP Dependency-Check
+- Snyk + CI/CD integration
+- Runtime Application Self-Protection (RASP)
